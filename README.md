@@ -12,7 +12,7 @@ This is a simple web application that allows users to search for universities by
 
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MySQL
 
 ## Installation
 
