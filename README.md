@@ -56,7 +56,7 @@ This is a simple web application that allows users to search for universities by
     ```
 
 7. **Open your browser** and go to [http://universities.hipolabs.com](http://universities.hipolabs.com)  to view the app.
-8. 
+   
 
 ## API Endpoints
 
