@@ -68,8 +68,15 @@ This is a simple web application that allows users to search for universities by
 ## Folder Structure
 
 - **frontend**: Contains the frontend code of the application.
-- **backend**: Contains the backend code of the application.
-
+- **backend**:
+- University_search_app
+- |-controllers
+  |---favoritesController.js
+  |---searchController.js
+  |-routes
+  |---favorite.js
+  |---search.js
+  |-server.js
 ## Usage
 
 1. **Search for Universities**:
@@ -85,6 +92,3 @@ This is a simple web application that allows users to search for universities by
 
     - Click on the "View Favorites" link in the navigation bar to view all your saved favorite universities.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
